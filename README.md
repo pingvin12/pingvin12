@@ -1,9 +1,8 @@
 # Hey there 👋 #
 
-- 🔭 I’m currently working on [3DViewr](https://github.com/pingvin12/3DViewr)
-- 👥 I’m looking to collaborate on game engines and web frameworks
+- 🔭 I’m currently working on Rodeo
 - 🎓 Education: BSC Computer Engineering @ HU - University of Obuda
-- 📙 I’m currently trying to learn: 🦀 Rust 
+- 📙 I’m currently trying to learn: 🦀 Rust, Reverse Engineering 
 
 ### Connect
 
