@@ -1,9 +1,3 @@
-# Hey there 👋 #
-
-- 🔭 I’m currently working on Rodeo
-- 🎓 Education: BSC Computer Engineering @ HU - University of Obuda
-- 📙 I’m currently trying to learn: 🦀 Rust, Reverse Engineering 
-
 ### Connect
 
 [<img align="left" alt="pingvin12.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
